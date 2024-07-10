@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.presentation\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\controllers\\scorescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\scoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\iscoreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.repositories\\contract\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|solutionrelative:game.repositories\\contract\\iscorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.services\\mp\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1289385-76E6-45AF-A71D-F405D8DCF463}|Game.Services\\Game.Services.csproj|solutionrelative:game.services\\mp\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.repositories\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|solutionrelative:game.repositories\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.repositories\\contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|solutionrelative:game.repositories\\contract\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.dtos\\getscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|solutionrelative:game.dtos\\getscoredto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.models\\usersscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|solutionrelative:game.models\\usersscores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|solutionrelative:game.models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.repositories\\repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|solutionrelative:game.repositories\\repositories\\scorerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|solutionrelative:game.dtos\\getuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{163FBE32-896E-4FC8-8764-A1CF96B2BB49}|Game.Context\\Game.Context.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.context\\context\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{163FBE32-896E-4FC8-8764-A1CF96B2BB49}|Game.Context\\Game.Context.csproj|solutionrelative:game.context\\context\\gamedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.dtos\\register\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|solutionrelative:game.dtos\\register\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.dtos\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{366E9E23-EC49-4891-BD53-FB8F4E8819DA}|Game.Dtos\\Game.Dtos.csproj|solutionrelative:game.dtos\\register\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E0F0FAC8-73BC-495E-91D4-64BA182992D3}|Game.Presentation\\Game.Presentation.csproj|solutionrelative:game.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|solutionrelative:game.repositories\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.repositories\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4C67312-3881-4E6F-B22B-EF4B345BD82C}|Game.Repositories\\Game.Repositories.csproj|solutionrelative:game.repositories\\contract\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|d:\\iti courses\\courses\\asp.net\\map game project2\\game\\game.models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E2AF6C8-F848-49D4-BFBB-7E22DED25F0D}|Game.Models\\Game.Models.csproj|solutionrelative:game.models\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625154113_initial2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625145436_eman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625145320_yasmeen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IScoreService.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\IScoreService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\IScoreService.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\IScoreService.cs",
+              "RelativeToolTip": "Game.Services\\IScoreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:49:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScoresController.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Controllers\\ScoresController.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Controllers\\ScoresController.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Controllers\\ScoresController.cs",
+              "RelativeToolTip": "Game.Presentation\\Controllers\\ScoresController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA1wCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:58:18.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IScoreRepository.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Contract\\IScoreRepository.cs",
+              "RelativeDocumentMoniker": "Game.Repositories\\Contract\\IScoreRepository.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Contract\\IScoreRepository.cs",
+              "RelativeToolTip": "Game.Repositories\\Contract\\IScoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:45:24.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\MP\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Game.Services\\MP\\MapperProfile.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\MP\\MapperProfile.cs",
+              "RelativeToolTip": "Game.Services\\MP\\MapperProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:39:22.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScoreService.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\ScoreService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\ScoreService.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\ScoreService.cs",
+              "RelativeToolTip": "Game.Services\\ScoreService.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAmwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:52:47.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\IUserService.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\IUserService.cs",
+              "RelativeToolTip": "Game.Services\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:17:24.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Game.Services\\UserService.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Services\\UserService.cs",
+              "RelativeToolTip": "Game.Services\\UserService.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAowDAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:13:44.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Game.Presentation\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAkwDgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:21:59.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Game.Repositories\\Repositories\\GenericRepository.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Game.Repositories\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:37:11.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Contract\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Game.Repositories\\Contract\\IGenericRepository.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Contract\\IGenericRepository.cs",
+              "RelativeToolTip": "Game.Repositories\\Contract\\IGenericRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:38:59.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetScoreDto.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\GetScoreDto.cs",
+              "RelativeDocumentMoniker": "Game.Dtos\\GetScoreDto.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\GetScoreDto.cs",
+              "RelativeToolTip": "Game.Dtos\\GetScoreDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:35:23.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsersScores.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Models\\UsersScores.cs",
+              "RelativeDocumentMoniker": "Game.Models\\UsersScores.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Models\\UsersScores.cs",
+              "RelativeToolTip": "Game.Models\\UsersScores.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:09:08.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Models\\User.cs",
+              "RelativeDocumentMoniker": "Game.Models\\User.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Models\\User.cs",
+              "RelativeToolTip": "Game.Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:03:25.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ScoreRepository.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Repositories\\ScoreRepository.cs",
+              "RelativeDocumentMoniker": "Game.Repositories\\Repositories\\ScoreRepository.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Repositories\\ScoreRepository.cs",
+              "RelativeToolTip": "Game.Repositories\\Repositories\\ScoreRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T23:47:00.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetUserDto.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\GetUserDto.cs",
+              "RelativeDocumentMoniker": "Game.Dtos\\GetUserDto.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\GetUserDto.cs",
+              "RelativeToolTip": "Game.Dtos\\GetUserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:35:36.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GameDbContext.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Context\\Context\\GameDbContext.cs",
+              "RelativeDocumentMoniker": "Game.Context\\Context\\GameDbContext.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Context\\Context\\GameDbContext.cs",
+              "RelativeToolTip": "Game.Context\\Context\\GameDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T14:56:00.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Program.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Program.cs",
+              "RelativeToolTip": "Game.Presentation\\Program.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAAAIYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:45:22.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Game.Presentation\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Game.Presentation\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:12:52.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\Register\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "Game.Dtos\\Register\\LoginDTO.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\Register\\LoginDTO.cs",
+              "RelativeToolTip": "Game.Dtos\\Register\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T16:06:55.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\Register\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "Game.Dtos\\Register\\RegisterDTO.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Dtos\\Register\\RegisterDTO.cs",
+              "RelativeToolTip": "Game.Dtos\\Register\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:51:43.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "Game.Presentation\\appsettings.json",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Presentation\\appsettings.json",
+              "RelativeToolTip": "Game.Presentation\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-25T15:12:19.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Game.Repositories\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Game.Repositories\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:36:58.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Contract\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Game.Repositories\\Contract\\IUserRepository.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Repositories\\Contract\\IUserRepository.cs",
+              "RelativeToolTip": "Game.Repositories\\Contract\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:38:56.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Games.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Models\\Games.cs",
+              "RelativeDocumentMoniker": "Game.Models\\Games.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project2\\Game\\Game.Models\\Games.cs",
+              "RelativeToolTip": "Game.Models\\Games.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:26:56.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240625154113_initial2.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625154113_initial2.cs",
+              "RelativeDocumentMoniker": "..\\..\\map game project\\Game\\Game.Context\\Migrations\\20240625154113_initial2.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625154113_initial2.cs",
+              "RelativeToolTip": "..\\..\\map game project\\Game\\Game.Context\\Migrations\\20240625154113_initial2.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T15:41:13.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240625145436_eman.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625145436_eman.cs",
+              "RelativeDocumentMoniker": "..\\..\\map game project\\Game\\Game.Context\\Migrations\\20240625145436_eman.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625145436_eman.cs",
+              "RelativeToolTip": "..\\..\\map game project\\Game\\Game.Context\\Migrations\\20240625145436_eman.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:54:36.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240625145320_yasmeen.cs",
+              "DocumentMoniker": "D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625145320_yasmeen.cs",
+              "RelativeDocumentMoniker": "..\\..\\map game project\\Game\\Game.Context\\Migrations\\20240625145320_yasmeen.cs",
+              "ToolTip": "D:\\iti courses\\courses\\asp.net\\map game project\\Game\\Game.Context\\Migrations\\20240625145320_yasmeen.cs",
+              "RelativeToolTip": "..\\..\\map game project\\Game\\Game.Context\\Migrations\\20240625145320_yasmeen.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T14:53:21.038Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
